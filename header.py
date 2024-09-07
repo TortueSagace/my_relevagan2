@@ -724,4 +724,3 @@ def save_losses(
     df.to_csv(GAN_type + "losses.csv")
 
     print("Losses file saved")
->>>>>>> 15df928a839032e7b0cef27331b293c68bc29589
