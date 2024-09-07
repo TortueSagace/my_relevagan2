@@ -118,7 +118,7 @@ from sklearn.metrics import recall_score, precision_score, roc_auc_score
 from pylab import *
 
 # tf.disable_v2_behavior()
-from tensorflow.keras.backend import get_session
+# from tensorflow.keras.backend import get_session
 import seaborn as sns
 
 # sns.set(style="ticks")
